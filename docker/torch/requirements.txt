@@ -1,0 +1,4 @@
+ninja
+datasets[vision]
+einops
+lpips
